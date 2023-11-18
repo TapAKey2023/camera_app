@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meal_item_1: MyString
+  meal_item_2: MyString
+  price_item_1: 1
+  price_item_2: 1
+
+two:
+  meal_item_1: MyString
+  meal_item_2: MyString
+  price_item_1: 1
+  price_item_2: 1
